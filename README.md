@@ -19,8 +19,7 @@ you can explore this archived version in two ways:
 2. **locally:** clone this repository and open `index.html` in your browser 🏠.
 
 ## license 📝
-- **code:** the html, css, and js files are open-source and can be reused under the [mit license](LICENSE) 🚀.  
-- **content:** all images, videos, and textual content remain **copyrighted by discovery gubbio** ⚠️ and cannot be used commercially or redistributed without permission.
+see [licence](licence.md).
 
 ## important note ⚡
 this repository **does not represent the current discovery gubbio website** — it’s a preserved 2024 snapshot for archival purposes.  

@@ -19,7 +19,7 @@ you can explore this archived version in two ways:
 2. **locally:** clone this repository and open `index.html` in your browser 🏠.
 
 ## license 📝
-see [licence](licence.md).
+see [licence](LICENSE.md).
 
 ## important note ⚡
 this repository **does not represent the current discovery gubbio website** — it’s a preserved 2024 snapshot for archival purposes.  

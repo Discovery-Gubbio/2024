@@ -4,7 +4,7 @@
 this repository preserves **the full 2024 edition of the discovery gubbio website**, exactly as it appeared online before the redesign.
 
 ## what's included 📦
-- **22 fully animated html pages** ✨, featuring images 🖼️, videos 🎥, and smooth scrolling powered by [lenis](https://github.com/studio-freight/lenis) 🌀.
+- **22 fully animated html pages** (embedding react and javascript) ✨, featuring images 🖼️, videos 🎥, and smooth scrolling powered by [lenis](https://github.com/studio-freight/lenis) 🌀.
 - original site structure, with no content or design changes.
 - purely static assets — no backend or cms.
 
